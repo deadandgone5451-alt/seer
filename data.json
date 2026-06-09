@@ -102,7 +102,7 @@
     },
       {
      "name": "DeadAndGone5451",
-      "user-id": "BDC962BFA7DE23D9",
+      "user-id": "84ABA91939ABCADA",
       "discord-id": "1181354054165725214"
     },
      {
@@ -124,11 +124,6 @@
      "name": "1x1x1x1VR123",
       "user-id": "4F37AE2B357CCBB9",
       "discord-id": "810014649490997311"
-    },
-     {
-     "name": "DeadAndGone5154",
-      "user-id": "84ABA91939ABCADA",
-      "discord-id": "1181354054165725214"
     }
   ],
   "super-admins": [
@@ -146,8 +141,7 @@
     "Gavs",
     "Lawson",
     "Sprinkle",
-    "1x1x1x1VR123",
-    "DeadAndGone5154"
+    "1x1x1x1VR123"
   ],
   "april_fools": {
     "sex": false
